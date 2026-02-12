@@ -15,7 +15,7 @@ Hi, I'm **Neema Barti** — an aspiring **Data Analyst & Full Stack Web Develope
 🌱 Skills:
 
 * Data Analysis (SQL, Excel, Python, Power BI, Data Visualization)
-* Generative AI (LLMs, Ollama, Prompt Engineering, RAG Basics)
+* Generative AI (LLMs, Ollama, Prompt Engineering, RAG)
 * Full Stack Web Development (React, TypeScript, TailwindCSS, MongoDB, REST APIs)
 
 💡 Interested in turning data into insights and building intelligent applications.
