@@ -8,7 +8,8 @@
 
 
 # 💫 About Me:
-## 👋 Hi there, I'm Neema Barti<br><br>🔭 Currently building projects in **Data Analytics** and **Web Development** to strengthen real-world skills.<br><br>🌱 Learning and growing in:<br><br>* Data Analysis (SQL, Excel, Python, Power BI, Data Visualization)<br>* Generative AI concepts<br>* Frontend Web Development (HTML, CSS, JavaScript, React, Typescript, nodejs, MongoDB, Restful API)<br><br>👯 Open to collaborating on beginner-friendly projects, data-driven applications, and practical learning projects.<br><br>💡 Interested in turning data into insights and building user-friendly web interfaces.<br><br>🎯 Career Goal: To start my journey as a **Data Analyst** while continuously improving technical and analytical skills.<br><br>📫 Let's connect and grow together!<br>
+## 👋 Hi there, I'm Neema Barti<br><br>🔭 Currently building projects in **Data Analytics** and **Web Development** to strengthen real-world skills.<br><br>🌱 Learning and growing in:<br><br>* Data Analysis (SQL, Excel, Python, Power BI, Data Visualization)<br> * Generative AI (LLMs, Ollama Local Models, Prompt Engineering, RAG Concepts, AI Assistant Development)
+<br>* Frontend Web Development (HTML, CSS, JavaScript, React, Typescript, nodejs, MongoDB, Restful API)<br><br>👯 Open to collaborating on beginner-friendly projects, data-driven applications, and practical learning projects.<br><br>💡 Interested in turning data into insights and building user-friendly web interfaces.<br><br>🎯 Career Goal: To start my journey as a **Data Analyst** while continuously improving technical and analytical skills.<br><br>📫 Let's connect and grow together!<br>
 
 
 ## 🌐 Socials:
