@@ -38,7 +38,18 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+---
+
+### 🤖 Generative AI
+
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge\&logo=ai\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge\&logo=semanticweb\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge\&logo=llama\&logoColor=white)
+![AI Assistant](https://img.shields.io/badge/AI_Assistant-4CAF50?style=for-the-badge\&logo=chatbot\&logoColor=white)
+![LLM API Integration](https://img.shields.io/badge/LLM_API_Integration-3178C6?style=for-the-badge\&logo=api\&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=neemabarti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
