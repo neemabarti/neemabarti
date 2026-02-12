@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Neema Barti</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+Learner;SQL+%7C+PowerBI+%7C+Excel;Frontend+Web+Developer;Always+Learning+New+Skills" />
+</p>
+
+
 # 💫 About Me:
 ## 👋 Hi there, I'm Neema Barti<br><br>🔭 Currently building projects in **Data Analytics** and **Web Development** to strengthen real-world skills.<br><br>🌱 Learning and growing in:<br><br>* Data Analysis (SQL, Excel, Python, Power BI, Data Visualization)<br>* Generative AI concepts<br>* Frontend Web Development (HTML, CSS, JavaScript, React, Typescript, nodejs, MongoDB, Restful API)<br><br>👯 Open to collaborating on beginner-friendly projects, data-driven applications, and practical learning projects.<br><br>💡 Interested in turning data into insights and building user-friendly web interfaces.<br><br>🎯 Career Goal: To start my journey as a **Data Analyst** while continuously improving technical and analytical skills.<br><br>📫 Let's connect and grow together!<br>
 
