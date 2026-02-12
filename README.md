@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neema Barti</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Python+%7C+Data+Visualization;Full+Stack+Web+Developer;ReactJS+%7C+TypeScript+%7C+TailwindCSS+%7C+MongoDB+%7C+RESTful+API;Always+Learning+New+Skills+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI+%7C+Python+%7C+Data+Visualization;Full+Stack+Web+Developer;ReactJS+%7C+TypeScript+%7C+TailwindCSS+%7C+MongoDB+%7C+RESTful+API;Always+Learning+New+Skills+Every+Day" />
 </p>
+
 
 
 
